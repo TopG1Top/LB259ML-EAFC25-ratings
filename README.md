@@ -16,11 +16,7 @@ Dieses Projekt steht unter der Apache License 2.0. Weitere Informationen sind in
 
 ## 4. Ordnerstruktur
 
-ML-Projekt-FC25/
-├─ data/
-│  └─ cleaned_fc25_players_no_unneeded_columns.csv
-├─ docs/
-└─ README.md
+
 
 data/: Enthält den bereinigten Datensatz (mit entfernten/ausgefüllten Spalten).
 
