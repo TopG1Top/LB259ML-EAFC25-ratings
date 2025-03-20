@@ -14,12 +14,10 @@ Der Datensatz stammt aus einer öffentlich zugänglichen Quelle auf Kaggle und u
 
 Dieses Projekt steht unter der Apache License 2.0. Weitere Informationen sind in der LICENSE nachzulesen. Bitte beachte, dass bei weiterer Verwendung des Codes oder Datensatzes ein Hinweis auf die ursprüngliche Quelle sowie die Einhaltung der Lizenzauflagen notwendig ist.
 
-Zejneli Linhard
-
 
 
 data/: Enthält den bereinigten Datensatz (mit entfernten/ausgefüllten Spalten).
 
 docs/: Optionale Dokumentation oder Zusatzmaterial.
 
-README.md: Dieses Dokument mit Projektinfos und Vorgaben.
+# Zejneli Linhard
